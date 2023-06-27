@@ -8,7 +8,7 @@ GitHub and ngrok
 This guide will help you to set up a webhook that is triggered whenever a push is made to a GitHub repository. We will be using ngrok to tunnel to our localhost where we will have a simple ExpressJS server running.
 Setup your ExpressJS Server
 
- # Install express and body-parser
+ Install express and body-parser
  npm install express body-parser
 
 
